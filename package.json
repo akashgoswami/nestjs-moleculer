@@ -15,11 +15,11 @@
     "publish:next": "npm publish --access public --tag next"
   },
   "devDependencies": {
-    "@nestjs/common": "^5.1.0",
-    "@nestjs/core": "^5.1.0",
+    "@nestjs/common": "^8.0.5",
+    "@nestjs/core": "^8.0.5",
     "@types/node": "^7.0.41",
     "lint-staged": "^7.0.0",
-    "moleculer": "^0.13.4",
+    "moleculer": "^0.14.16",
     "prettier": "^1.11.1",
     "reflect-metadata": "^0.1.12",
     "rxjs": "^6.0.0",
